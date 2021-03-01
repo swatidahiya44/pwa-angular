@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1614597740098,
-  "index": "https://swatidahiya44.github.io/pwa-angular/index.html",
+  "timestamp": 1614599005196,
+  "index": "/pwa-angular-test/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://swatidahiya44.github.io/pwa-angular/favicon.ico",
-        "https://swatidahiya44.github.io/pwa-angular/index.html",
-        "https://swatidahiya44.github.io/pwa-angular/main.c7677394fb40c59d5370.js",
-        "https://swatidahiya44.github.io/pwa-angular/manifest.webmanifest",
-        "https://swatidahiya44.github.io/pwa-angular/polyfills.00096ed7d93ed26ee6df.js",
-        "https://swatidahiya44.github.io/pwa-angular/runtime.7b63b9fd40098a2e8207.js",
-        "https://swatidahiya44.github.io/pwa-angular/styles.3ff695c00d717f2d2a11.css"
+        "/pwa-angular-test/favicon.ico",
+        "/pwa-angular-test/index.html",
+        "/pwa-angular-test/main.c7677394fb40c59d5370.js",
+        "/pwa-angular-test/manifest.webmanifest",
+        "/pwa-angular-test/polyfills.00096ed7d93ed26ee6df.js",
+        "/pwa-angular-test/runtime.7b63b9fd40098a2e8207.js",
+        "/pwa-angular-test/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-128x128.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-144x144.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-152x152.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-192x192.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-384x384.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-512x512.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-72x72.png",
-        "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-96x96.png"
+        "/pwa-angular-test/assets/icons/icon-128x128.png",
+        "/pwa-angular-test/assets/icons/icon-144x144.png",
+        "/pwa-angular-test/assets/icons/icon-152x152.png",
+        "/pwa-angular-test/assets/icons/icon-192x192.png",
+        "/pwa-angular-test/assets/icons/icon-384x384.png",
+        "/pwa-angular-test/assets/icons/icon-512x512.png",
+        "/pwa-angular-test/assets/icons/icon-72x72.png",
+        "/pwa-angular-test/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://swatidahiya44.github.io/pwa-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://swatidahiya44.github.io/pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://swatidahiya44.github.io/pwa-angular/index.html": "81cc1dd0b280ad5422123c90ee9b543e053b95a1",
-    "https://swatidahiya44.github.io/pwa-angular/main.c7677394fb40c59d5370.js": "d78150af3aed25277d1a409eeb273e11b0b501d3",
-    "https://swatidahiya44.github.io/pwa-angular/manifest.webmanifest": "c7991ca16c6397db1832367ec74a6c8f8d64751e",
-    "https://swatidahiya44.github.io/pwa-angular/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "https://swatidahiya44.github.io/pwa-angular/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://swatidahiya44.github.io/pwa-angular/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/pwa-angular-test/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/pwa-angular-test/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/pwa-angular-test/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/pwa-angular-test/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/pwa-angular-test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/pwa-angular-test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/pwa-angular-test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/pwa-angular-test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pwa-angular-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/pwa-angular-test/index.html": "f8f32f77c1046cf8030f8e9b65d7531338890e04",
+    "/pwa-angular-test/main.c7677394fb40c59d5370.js": "d78150af3aed25277d1a409eeb273e11b0b501d3",
+    "/pwa-angular-test/manifest.webmanifest": "c7991ca16c6397db1832367ec74a6c8f8d64751e",
+    "/pwa-angular-test/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/pwa-angular-test/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/pwa-angular-test/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
